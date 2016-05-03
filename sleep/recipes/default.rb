@@ -7,5 +7,5 @@
 # All rights reserved - Do Not Redistribute
 #
 execute "sleep" do
-  command "sleep 3600"
+  command "sleep 7200"
 end
