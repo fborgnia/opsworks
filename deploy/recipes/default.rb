@@ -7,6 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 include_recipe "apt"
+include_recipe "sleep"
 
 package 'nginx' do
   action :install
