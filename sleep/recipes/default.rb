@@ -7,5 +7,5 @@
 # All rights reserved - Do Not Redistribute
 #
 execute "sleep" do
-  command "echo 'sleeping' ; sleep 3600"
+  command "echo 'sleeping' ; sleep 36"
 end
