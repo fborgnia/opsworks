@@ -7,6 +7,6 @@
 # All rights reserved - Do Not Redistribute
 #
 execute "sleep" do
-  command "sleep 7200"
-  timeout 7220
+  command "sleep 5400"
+  timeout 5410
 end
